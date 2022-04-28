@@ -1,3 +1,6 @@
+# SpaceX dashboard
+<img src="https://raw.githubusercontent.com/mescalito/react_tailwind_context_reducer_highcharts/master/public/spacex_dashboard.png">
+
 # Libraries
 
 - ReactJS v18
